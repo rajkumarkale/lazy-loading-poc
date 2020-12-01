@@ -1,0 +1,21 @@
+
+.login-box {
+  position: relative;
+  top: 100px;
+  display: flex;
+  align-items: center;
+  flex: 1 1 auto;
+  justify-content: center;
+  flex-direction: column;
+  /*background: url("src/assets/login.png");*/
+}
+
+.login-panel {
+  padding: 15px;
+  width: 20%;
+  background: gray;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  border-radius: 10px;
+}
